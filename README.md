@@ -1,2 +1,2 @@
-# JS-Fundamentals
+# JS-Core
 SoftUni - JS Fundamentals
